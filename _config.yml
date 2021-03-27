@@ -1,7 +1,7 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/hyeseon-park"
+title:          Spaceship
+description:    "Hi, This is a spaceship for Hyeseon Park"
+baseurl:        "/"
 url:            "https://hyeseon-park.github.io"
 
 # Google Analytics
