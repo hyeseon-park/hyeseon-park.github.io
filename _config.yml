@@ -2,7 +2,7 @@
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/hyeseon-park"
-url:            "hyeseon-park.github.io"
+url:            "https://hyeseon-park.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
